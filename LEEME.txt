@@ -1,0 +1,9 @@
+Coloca en esta carpeta las seis fotografías JPEG con estos nombres exactos:
+planta 1.jpeg
+planta 2.jpeg
+planta 3.jpeg
+planta 4.jpeg
+planta 5.jpeg
+planta 6.jpeg
+
+No cambies los nombres salvo que actualices también las rutas en index.html.
